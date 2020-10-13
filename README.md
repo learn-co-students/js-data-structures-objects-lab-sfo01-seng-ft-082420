@@ -19,11 +19,11 @@ non-destructively) in this lab.
 
 You'll be writing four functions:
 
-- `updateDriverWithKeyAndValue()`- this function should take in three arguments:
+- [x]`updateDriverWithKeyAndValue()`- this function should take in three arguments:
   a `driver` `Object`, a `key` and a `value`. This function should not mutate the
   `driver` and should return a _new_ `driver` that has an updated
   `value` for the `key` passed in.
-- `destructivelyUpdateDriverWithKeyAndValue()` - this function should work the
+- [x]`destructivelyUpdateDriverWithKeyAndValue()` - this function should work the
   same as `updateDriverWithKeyAndValue()` but it _should_ mutate the `driver`
   parameter passed in.
 - `deleteFromDriverByKey()` - this function should take in a `driver` `Object`
